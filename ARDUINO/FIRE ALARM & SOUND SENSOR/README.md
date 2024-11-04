@@ -1,5 +1,15 @@
 # CONNECTION FOR WIRING AND COMPONENTS
 
+For this one, i'm using Arduino UNO as the main component.
+
+# COMPONENTS
+- Connecting wires
+- Sound sensor
+- Buzzer
+- LED
+- Arduino UNO
+- Resistor 220 Ohm
+
 LED
 1.	Yellow: (-) Purple
 2.	Green: (-) Yellow
