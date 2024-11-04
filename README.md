@@ -8,7 +8,7 @@ You can downlaod the software from here:
 
 1.	ARDUINO IDE (LAPTOP)
 https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE
-2.	BLYNK APP (PHONE)
+2.	BLYNK WEWEBSITE & APP (PHONE)
 3.	SMART HOME 3D (FREE VERSION) (LAPTOP)
 https://www.sweethome3d.com/download.jsp
 
