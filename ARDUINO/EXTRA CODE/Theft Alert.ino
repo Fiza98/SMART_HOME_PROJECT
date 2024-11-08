@@ -24,7 +24,7 @@ void notifyOnTheft()
   Serial.println(isTheftAlert);
   if (isTheftAlert==1) {
     Serial.println("Theft Alert in Home");
-    // Blynk.email("shameer50@gmail.com", "Alert", "Theft Alert in Home");
+    // Blynk.email("XX@gmail.com", "Alert", "Theft Alert in Home");
     //Blynk.notify("Alert : Theft Alert in Home");
     Blynk.logEvent("theft_alert","Theft Alert in Home");
 //    flag=1;
